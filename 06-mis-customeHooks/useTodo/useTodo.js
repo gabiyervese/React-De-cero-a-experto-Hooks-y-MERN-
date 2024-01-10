@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 
 //NOTA: la funcion de este hook es limpiar y mantener el componente principal llamado TodoApp. No es para ser usado en los demas componentes.
 
